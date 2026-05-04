@@ -1,0 +1,34 @@
+name: "LINA MANSOUR"
+author: "SH3G0"
+category: osint
+description: |-
+
+Lina Mansour has been at Medina Tech Solutions since 2021. Before that, she spent five years at a major Tunisian bank. 
+Or so her personnel file says.
+Investigators never take a single document at face value. People exist beyond their official files — they leave traces, 
+they build profiles, they tell their own story in their own words. 
+Sometimes that story doesn't quite match the one on paper.
+Find her. Compare what you know to what she says about herself. 
+Read everything carefully
+
+
+
+
+    **author**: SH3G0
+
+
+
+
+
+
+
+
+
+
+
+
+flags:
+  - CyberTEK{ZITOUNA_2022}
+
+
+
