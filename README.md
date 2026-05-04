@@ -1,1 +1,12 @@
 # CyberTEK_2026
+
+
+Tasks order:
+Operation BAKLAWA 0
+Operation BAKLAWA 1
+NOUR BELHAJ
+MEHDI TRABELSI
+KARIM SAIDI
+LINA MANSOUR
+Operation BAKLAWA (Final)
+
