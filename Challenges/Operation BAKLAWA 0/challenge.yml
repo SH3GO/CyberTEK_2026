@@ -21,9 +21,19 @@ You are the investigator. You have the files. You have the timestamps. You have 
 Figure out who was really inside that network. Before they're gone for good.
 — Riadh Kchouk, Unit 2A7 Cyber Investigations Division
 
-Flag:CyberTEK{Unit_2A7_Cyber_Investigations_Division }
+Flag:CyberTEK{Unit_2A7_Cyber_Investigations_Division}
 
 
 
     **author**: SH3G0
+
+
+
+
+
+
+
+
+flags:
+  - CyberTEK{Unit_2A7_Cyber_Investigations_Division}
 
