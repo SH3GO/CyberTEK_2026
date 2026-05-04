@@ -1,23 +1,37 @@
-name: "Operation SILENT CHAIN 0"
+name: "Operation BAKLAWA 1"
 author: "SH3G0"
 category: osint
 description: |-
 
-Silent Chain, a rogue paramilitary network, is escalating its operations across the Middle East and Europe. 
-CIRU (Cyber Intelligence Response Unit) has been tasked with dismantling their chain of command before they execute a series of coordinated strikes.
-Last week, during a raid on a Silent Chain safehouse in northern Syria, CIRU recovered a seized data drive containing weeks of raw intelligence—patrol reports,
-intercepted radio chatter, and logistics updates. Buried in the chaos is a critical codeword, a failsafe left behind by a careless operative. 
-Intelligence suggests this codeword is the key to accessing Silent Chain’s fallback systems and may expose high-value targets and their next strike plans.
-your mission is clear: comb through the logs, identify the codeword 
-Flag Format :FL1TZ{codeword}
-
+[UNIT 2A7 — TASK BRIEFING 01]
+Before you chase anyone, you need to know everyone.
+We have recovered the full personnel dossiers of the five employees currently 
+under investigation. Each file contains their CV, their work schedule, and a sample 
+of their professional email communications.
+Read everything. Every line. Investigators who skim miss things — and in this case, 
+missing things costs you the whole operation.
+Something in these files will tell you exactly who had access to the server 
+between 02:13 and 02:47 AM on the night of March 13th. Find that person.
+Flag format: CyberTEK{First_Lastname}
 
 
     **author**: SH3G0
 
-flags:
-  - FL1TZ{SC_Alpha15}
 
-files:
-  - handout/FIELD_INTEL_LOGS_2025.pdf 
+
+
+
+
+
+
+
+
+
+    
+
+flags:
+  - CyberTEK{Mehdi_Trabelsi}
+
+
+
 
