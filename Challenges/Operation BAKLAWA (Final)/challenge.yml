@@ -1,0 +1,24 @@
+name: "Silent Drop"
+author: "Re4perZ3d & SH3G0"
+category: osint
+description: |-
+  During an internal investigation, several URLs were recovered from a former employee’s workstation memory.
+  Analyze the artefacts to reconstruct the communication timeline and identify signs of data exfiltration.
+  
+
+  **author**: Re4perZ3d & SH3G0
+value: 1000
+type: dynamic
+extra:
+  initial: 1000
+  decay: 20
+  minimum: 100
+flags:
+  - Securinets{557fad5e8e92debee1abf7cd33d0f2d0fab09d3b2894304742f764d202e2fb99}
+tags:
+  - medium
+files:
+  - handout/handout.rar
+
+state: visible
+version: "0.1"
