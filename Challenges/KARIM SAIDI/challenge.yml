@@ -1,0 +1,36 @@
+name: "KARIM SAIDI"
+author: "SH3G0"
+category: osint
+description: |-
+
+[UNIT 2A7 — TASK BRIEFING 04]
+Karim Saidi is a 24-year-old intern who has been at Medina Tech Solutions for less than two months. 
+On paper he looks clean — enthusiastic student, good reports, no red flags.
+But his work laptop was imaged before it was wiped, and the browser history 
+export doesn't sit right with our analysts.
+Attached is the full browser history file. Most of it is exactly what you'd expect from a junior DevOps intern. 
+But somewhere in there, something is off.
+URLs are not always what they appear to be. Sometimes what a person was actually looking for is different 
+from what ended up in their history. The right tool will show you what was really going on.
+Can you find what he was actually searching for?
+Flag format: CyberTEK{exact_search_query}
+
+
+
+
+    **author**: SH3G0
+
+
+
+
+
+
+
+
+
+
+flags:
+  - CyberTEK{exfiltrate_without_getting_caught}
+
+
+
