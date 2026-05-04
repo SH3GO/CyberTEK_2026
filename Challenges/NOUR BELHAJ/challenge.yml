@@ -1,0 +1,32 @@
+name: "NOUR BELHAJ"
+author: "SH3G0"
+category: osint
+description: |-
+
+[UNIT 2A7 — TASK BRIEFING 02]
+People don't just exist at work. They leave traces everywhere — and most of the time they don't even realize it.
+Nour Belhaj is a backend developer who works hybrid. She mentioned a hobby in her CV that she seems genuinely passionate about. 
+Investigators have reason to believe she maintains at least one online presence related to that hobby.
+Find it. Look at everything she's posted. One photo in particular caught our attention — she uploaded it a few weeks before the breach. 
+She probably thought it was just a nice shot.
+It wasn't just a nice shot.
+The flag is a place name. Be precise.
+Flag format: CyberTEK{Place_Name}
+
+
+
+
+    **author**: SH3G0
+
+
+
+
+
+
+
+
+flags:
+  - CyberTEK{La_Medina_De_Tunis}
+
+
+
