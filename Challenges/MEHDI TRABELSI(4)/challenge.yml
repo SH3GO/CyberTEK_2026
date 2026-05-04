@@ -1,0 +1,31 @@
+name: "MEHDI TRABELSI"
+author: "SH3G0"
+category: osint
+description: |-
+
+[UNIT 2A7 — TASK BRIEFING 03]
+A USB drive was recovered from the personal belongings of this suspect during a routine search of the premises. 
+It contains a single file — a ZIP archive that is password protected.
+Mehdi Trabelsi is not a complicated man. His password is something he loves. 
+Inside the archive you will find five audio fragments. Each one is a piece of a song. Your job is to identify every single one.
+The flag is hiding in the titles. 
+We'll give you one hint: we don't care about the songs themselves we care about how they start.
+
+
+
+
+    **author**: SH3G0
+
+
+
+
+
+
+
+
+
+flags:
+  - CybetTEK{DEVIL}
+
+
+
