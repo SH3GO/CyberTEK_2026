@@ -17,3 +17,6 @@ LINA MANSOUR
 
 Operation BAKLAWA (Final)
 
+
+Big thanks to TAD for making this writeup :https://medium.com/@0xT4D/writeup-for-osint-tasks-cybertek-2026-ctf-9582fb7573bc
+
